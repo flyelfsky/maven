@@ -1,0 +1,7 @@
+*.iml
+.gradle
+.java
+.class
+.c
+.cpp
+
